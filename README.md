@@ -1,2 +1,1 @@
-# ml
-udemy course notebooks
+ml notebooks
